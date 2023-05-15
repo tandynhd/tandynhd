@@ -1,11 +1,10 @@
 ### Hi there 👋
- I am Tandin Dorji. Find me at all major socials @tandynhd
-The advancements in Machine Learning and Artificial Intelligence are what fascinate me the most and make me yearn for more.
+ I am Tandin Dorji. Find me at all major socials @tandynhd <br />
 
 ### About Me<br />
 
 🎓 Graduated in Digital Engineering from SIIT, Thammasat University.<br />
-💡 Fascinated by all things related to software development, hardware design, and system architecture.<br />
+💡 The advancements in Machine Learning and Artificial Intelligence are what fascinate me the most and make me yearn for more.<br />
 🌟 Constantly seeking new challenges and opportunities to learn and grow in the field.<br />
 🚀 Passionate about contributing to innovative projects and building solutions that make a positive impact on society.
 
@@ -21,7 +20,7 @@ The advancements in Machine Learning and Artificial Intelligence are what fascin
  ### Projects<br />
 
 Here are a few highlights of my ongoing projects:<br />
-🌐 ImpressionsOne: An AI based web application built with Flask and React that allows users to Generate, Enhance and Analyse thumbnail images.<br />
+🌐 ImpressionsOne: An AI based web application built with Flask and React that allows users to Generate, Enhance and Analyse thumbnails.<br />
 
 ### Interests<br />
 
