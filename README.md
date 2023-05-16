@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Tandin Dorji. Find me at all major socials @tandynhd <br />
+I am Tandin Dorji. Find me on all major socials @tandynhd <br />
 The advancements in Machine Learning and Artificial Intelligence are what fascinate me the most and make me yearn for more.<br />
 <br />
 Ongoing projects:<br />
