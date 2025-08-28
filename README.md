@@ -2,7 +2,9 @@
 I am Tandin Dorji. Find me on all major socials @tandynhd <br />
 The advancements in Machine Learning and Artificial Intelligence are what fascinate me the most and make me yearn for more.<br />
 <br />
-Ongoing projects:<br />
+Projects:<br />
+👾 tandynhd.com: Vibe coded Neal.fun for games I always wanted to play.<br />
+♟️ checks-captures-cheaters: Chrome extension to find oponent chess stats on chess.com<br />
 🌐 ImpressionsOne: An AI based web application built with Flask and React that allows users to Generate, Enhance and Analyse thumbnails.<br />
 
 
