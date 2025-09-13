@@ -7,9 +7,6 @@ Projects:<br />
 ♟️ checks-captures-cheaters: Chrome extension to find oponent chess stats on chess.com<br />
 🌐 ImpressionsOne: An AI based web application built with Flask and React that allows users to Generate, Enhance and Analyse thumbnails.<br />
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tandin%20Dorji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tandynhd/)](https://www.linkedin.com/in/tandynhd/)
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
