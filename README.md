@@ -3,9 +3,9 @@ I am Tandin Dorji. Find me on all major socials @tandynhd <br />
 
 <br />
 Projects:<br />
-👾 tandynhd.com: Building stuff I always wanted.<br />
+👾 tandynhd.com: Building stuff I like, hope you like it too.<br />
 ♟️ checks-captures-cheaters: Chrome extension to find oponent chess stats on chess.com<br />
-🌐 ImpressionsOne: An AI based web application built with Flask and React that allows users to Generate, Enhance and Analyse thumbnails.<br />
+🌐 ImpressionsOne: Web application to Generate, Enhance and Analyse thumbnails.<br />
 
 ## Languages
 
